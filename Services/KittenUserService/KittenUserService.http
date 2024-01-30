@@ -1,0 +1,6 @@
+@KittenUserService_HostAddress = http://localhost:5198
+
+GET {{KittenUserService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
